@@ -6,7 +6,7 @@
 
 An Implement of deap ([https://github.com/DEAP/deap](https://github.com/DEAP/deap)) which full name is "Distributed Evolutionary Algorithms in Python"
 
-If you want to run Evolutionary Calculation experiment in python, deap is a good choose.
+If you want to run Evolutionary Calculation experiment in python, deap is a good choice.
 
 The project is still in its infancy, and interested parties are welcome to participate in the development.
 
